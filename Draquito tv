@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://imgur.com/a/cT6IvNu" group-title="GENERAL",WILLAX (1080p)
-https://live-c.cf.dmcdn.net/sec2(WtcS3E2HjaL3lyp0SLa7uJIAChCap5pLt0i2YJiNYpldtIizc20YtKP7hiZkgvWqGZCLSZZLwMZzXBYvY4eRLBQXEudNfGDm0WSTMtwJbauJg3oqNybWJptVK4KQ0WO2)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-c.cf.dmcdn.net/sec2(qPMVu0tOKdNkG64CU7vxZ_4xaGSanD9RHo8dY0YlVMRM8dgrYE4ClWZ-YlmppbDbt9VR8QimjDG5zUQ7PTfNi-tBWLRM1JkU6sy0xXYhKJyByWKt4Ih_cgPf-VRSgdis)/dm/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="RT.ES" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
@@ -10,7 +10,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/t
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", LIGA 1 MAX
-https://ca8s9.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=a059b3b930b7348fa488364c54d27f65cdf5d16f-2f-1729331620-1729295620
+https://99a.pricesaskeloadsc.com/l1max/tracks-v1a1/mono.m3u8?token=b2a1c78086dc2c26dc11b620161c888559512039-8a-1729445159-1729409159
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO Digital (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
